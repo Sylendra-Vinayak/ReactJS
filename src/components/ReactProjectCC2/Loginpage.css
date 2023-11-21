@@ -1,0 +1,17 @@
+.containerlogin{
+    margin-top: 200px;
+    margin-left: 600px;
+    width: 300px;
+    height:300px;
+    background-color: #D2E3C8;
+    padding: 20px;
+    border-radius: 10px;
+    border: 0px solid grey;
+    box-shadow: 0px 0px 255px -1px rgba(0,0,0,0.6),
+    0px 45px 26px 0px rgba(0,0,0,0.14);
+}   
+body{
+    background-color: #9BBEC8;
+    background-size: cover;
+    background-position: fixed;
+}
